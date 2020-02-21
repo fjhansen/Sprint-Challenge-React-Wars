@@ -31,7 +31,7 @@ line-height: 1;
 width: 80%;
 padding: 3% 1%;
 list-style: none;
-color: #BEAD15;
+color: #e6d119;
 
 ${props => (props.type === 'primary' ? `color: #fdd835; color:#4caf50` : null)};
 
